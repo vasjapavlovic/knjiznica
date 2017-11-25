@@ -4,10 +4,10 @@ GIT
 Git remote
 
     .. code-block:: none
-		git remote add <remote name> <remote path>
+        git remote add <remote name> <remote path>
 
     .. code-block:: none
-		git remote remove <remote name>
+        git remote remove <remote name>
 
 
 .. glossary::
