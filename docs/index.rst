@@ -17,4 +17,5 @@ KNJIŽNICA ZNANJA VP
    ReadTheDocs
    Sphinx
    PostgreSQL
+   GIT
 
