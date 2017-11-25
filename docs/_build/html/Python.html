@@ -1,0 +1,180 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>PYTHON &#8212; Project name: Knjiznica 0.1.0 documentation</title>
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="SUBLIME TEXT 3" href="Sublime Text 3.html" />
+    <link rel="prev" title="DJANGO" href="Django.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head>
+  <body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="python">
+<span id="id1"></span><h1>PYTHON<a class="headerlink" href="#python" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="install-python-3-6-on-ubuntu">
+<span id="python-install-python36"></span><h2>Install python 3.6 on ubuntu<a class="headerlink" href="#install-python-3-6-on-ubuntu" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic">
+<li><p class="first">potreben dodatek za add-apt-repository</p>
+<div class="highlight-none"><div class="highlight"><pre><span></span>sudo apt-get install software-properties-common
+</pre></div>
+</div>
+</li>
+<li><p class="first">dodamo repository</p>
+<div class="highlight-none"><div class="highlight"><pre><span></span>sudo add-apt-repository ppa:jonathonf/python-3.6
+</pre></div>
+</div>
+</li>
+<li><p class="first">updatamo repositorije</p>
+<div class="highlight-none"><div class="highlight"><pre><span></span>sudo apt-get update
+</pre></div>
+</div>
+</li>
+<li><p class="first">inštaliramo python</p>
+<div class="highlight-none"><div class="highlight"><pre><span></span>sudo apt-get install python3.6
+</pre></div>
+</div>
+</li>
+<li><p class="first">NAVODILA:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://ubuntuhandbook.org/index.php/2017/07/install-python-3-6-1-in-ubuntu-16-04-lts/">http://ubuntuhandbook.org/index.php/2017/07/install-python-3-6-1-in-ubuntu-16-04-lts/</a></li>
+<li>po defaultu je pod ukazom python3 –&gt; python3.5</li>
+</ul>
+</li>
+<li><p class="first">sprememba na python3.6</p>
+<div class="highlight-none"><div class="highlight"><pre><span></span>sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.5 1
+
+sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.6 2
+
+sudo update-alternatives --config python3
+</pre></div>
+</div>
+</li>
+<li><p class="first">izberi pravo številko</p>
+</li>
+<li><p class="first">testiramo kaj se skriva pod ukazom python3</p>
+<div class="highlight-none"><div class="highlight"><pre><span></span>python3 -V
+</pre></div>
+</div>
+</li>
+</ol>
+</div>
+<div class="section" id="install-pip">
+<span id="python-install-pip"></span><h2>Install pip<a class="headerlink" href="#install-pip" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic">
+<li><p class="first">pred inštalacijo je potrebno urediti, da se pod ukazom python3 nahaja python za katerega želimo inštalirati pip glej podrobnosti v [3][1]</p>
+</li>
+<li><p class="first">inštaliramo pip</p>
+<div class="highlight-none"><div class="highlight"><pre><span></span>sudo apt-get install python3-pip
+</pre></div>
+</div>
+</li>
+<li><p class="first">upgradamo pip</p>
+<div class="highlight-none"><div class="highlight"><pre><span></span>pip3 install --upgrade pip
+</pre></div>
+</div>
+</li>
+</ol>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Project name: Knjiznica</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption"><span class="caption-text">Vsebina:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="Django.html">DJANGO</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">PYTHON</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#install-python-3-6-on-ubuntu">Install python 3.6 on ubuntu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#install-pip">Install pip</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Sublime Text 3.html">SUBLIME TEXT 3</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Ubuntu.html">UBUNTU</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ReadTheDocs.html">Read The Docs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Sphinx.html">SPHINX</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="Django.html" title="previous chapter">DJANGO</a></li>
+      <li>Next: <a href="Sublime Text 3.html" title="next chapter">SUBLIME TEXT 3</a></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <div><input type="text" name="q" /></div>
+      <div><input type="submit" value="Go" /></div>
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2017, Vasja Pavlovic.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.6.3</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.10</a>
+      
+      |
+      <a href="_sources/Python.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

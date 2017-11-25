@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"del",
+				"del_stavbe_list"
+			],
+			[
+				"dels",
+				"delstavbe_id_list"
+			],
+			[
+				"tip",
+				"tip_artikla"
+			],
+			[
+				"strosek",
+				"strosekrazdelilnik_list"
+			],
+			[
+				"strosekra",
+				"strosekrazdelilnik_nerazdeljeni"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"Is",
+				"IsLikvidiranModel"
+			],
+			[
+				"material",
+				"material_list"
+			],
+			[
+				"max",
+				"max_digits"
+			],
+			[
+				"decimal",
+				"decimal_places"
+			],
+			[
+				"time",
+				"time_input"
+			],
+			[
+				"arhivira",
+				"arhiviranje_id_list"
+			],
+			[
+				"tabl",
+				"table-striped"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"obra",
+				"obrazec_crate_form"
+			],
+			[
+				"ve",
+				"verbose_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "docs/racunovodstvo_prejeti_racuni_posiljanje.rst",
+			"settings":
+			{
+				"buffer_size": 397,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/!PrehodnoArhiv/@SLUZBA/pred 2015-08-16/pco/pco.py",
+			"settings":
+			{
+				"buffer_size": 1388,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/!PrehodnoArhiv/@SLUZBA/pred 2015-08-16/pco/pco2.py",
+			"settings":
+			{
+				"buffer_size": 1960,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sftp",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 368.0
+	},
+	"console":
+	{
+		"height": 179.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/@Prehodno/@Moji Projekti/201709 Knjižnica znanja",
+		"/D/@Prehodno/@Moji Projekti/201709 Knjižnica znanja/docs"
+	],
+	"file_history":
+	[
+		"/D/@Prehodno/@Moji Projekti/201709 Knjižnica znanja/sftp-config.json",
+		"/C/Users/vasja/Desktop/Win10_Tricks.rst",
+		"/D/_EdaFM/racunovodstvo/VizijaRacunovodstvo/Prejeti Računi - Posredovanje/0. UTILITI/download.py",
+		"/C/racuni/download.py",
+		"/D/!PrehodnoArhiv/@DEVELOP/wikipedia/django/django_deployment.rst",
+		"/D/!PrehodnoArhiv/@DEVELOP/wikipedia/django/django_project_deployment.docx",
+		"/D/!PrehodnoArhiv/@DEVELOP/wikipedia/postgresql.rst",
+		"/D/!PrehodnoArhiv/@DEVELOP/wikipedia/raspberry_iorem_dependecies.rst",
+		"/D/!PrehodnoArhiv/@DEVELOP/python/test_unittest/fromRoman.py",
+		"/C/photo_backup/backup.py",
+		"/D/!PrehodnoArhiv/@DEVELOP/python/excel_to_mysql/check_database.py",
+		"/D/!PrehodnoArhiv/@DEVELOP/python/excel_to_mysql/from_excel_xlwings.py",
+		"/D/!PrehodnoArhiv/@DEVELOP/python/excel_to_mysql/from_excel.py",
+		"/D/!PrehodnoArhiv/@DEVELOP/python/excel_to_mysql/excel_to_mysql.py",
+		"/C/stevci/novo_stanje.py",
+		"/C/stevci2/novo_stanje.py",
+		"/D/!Knjižnica/PROGRAMI/Programiranje/SublimeText/Nastavitev sublime text",
+		"/C/roman/fromRoman.py",
+		"/D/!PrehodnoArhiv/@DEVELOP/python/Skripte Vasja/photo_backup/backup.py",
+		"/D/!PrehodnoArhiv/@DEVELOP/python/Skripte Vasja/testiranje/test.py",
+		"/D/!PrehodnoArhiv/@DEVELOP/python/excel_to_mysql/pip",
+		"/D/!PrehodnoArhiv/@DEVELOP/python/excel_to_mysql/from_excel",
+		"/D/_EdaFM/EDA5/EDA5 - ACCESS/Stevci/novo_stanje.py",
+		"/D/!Programiranje/eda5/config/settings/common.py",
+		"/D/!Programiranje/eda5/eda5/deli/tests/test_models.py",
+		"/D/!Programiranje/eda5/eda5/import/views/import_deli_views.py",
+		"/D/!EdaFM/racunovodstvo/VizijaRacunovodstvo/Prejeti Računi - Posredovanje/0. UTILITI/download.py",
+		"/D/tdd.py",
+		"/D/!Programiranje/eda5/eda5/deli/models.py",
+		"/D/!Programiranje/eda5/eda5/reports/urls.py",
+		"/D/!Programiranje/eda5/eda5/@templates/obrazci/deli/pm_to_archicad.html",
+		"/D/!Programiranje/eda5/eda5/@templates/reports/deli/deli_seznam_filter.html",
+		"/D/!Programiranje/eda5/eda5/reports/views/deli.py",
+		"/D/!Programiranje/eda5/sftp-config.json",
+		"/C/Users/vasja/AppData/Local/Temp/Uniclass_2015-1.xml",
+		"/C/Users/vasja/Desktop/classificaton_test.xml",
+		"/C/Users/vasja/Desktop/test.xml",
+		"/C/Users/vasja/Desktop/EDA5-classification.xml",
+		"/D/@Programiranje/eda5/eda5/katalog/views/standardiziran_sistem_views.py",
+		"/D/@Programiranje/eda5/eda5/katalog/models.py",
+		"/D/@Programiranje/eda5/eda5/predpisi/models.py",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardno_opravilo/list/200_content/300_content_body_tabs.html",
+		"/D/@Programiranje/eda5/eda5/katalog/views/standardno_opravilo_views.py",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_element_sistema/detail/200_content/tabs/tab_01.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardno_opravilo/list/200_content/tabs/tab_01.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardno_opravilo/detail/200_content/tabs/tab_01.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardno_opravilo/detail/200_content/200_content_body_items.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardno_opravilo/detail/200_content/tabs/tab_03.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardno_opravilo/detail/200_content/tabs/tab_04.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardna_aktivnost/detail/200_content/100_content_header.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardna_aktivnost/detail/base.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardna_aktivnost/detail/200_content/tabs/tab_01.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardna_aktivnost/detail/200_content/200_content_body_items.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardno_opravilo/detail/200_content/100_content_header.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_sistem/detail/200_content/tabs/tab_01.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardno_opravilo/detail/200_content/300_content_body_tabs.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/list/base.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/list/200_content/200_content_body_items.html",
+		"/D/@Programiranje/eda5/eda5/planiranje/views/planirano_opravilo.py",
+		"/D/@Programiranje/eda5/eda5/@templates/planiranje/planirano_opravilo/detail/200_content/100_content_header.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_element_sistema/detail/200_content/tabs/tab_03.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_element_sistema/detail/200_content/100_content_header.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_sistem/list/200_content/tabs/tab_01.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_sistem/detail/200_content/100_content_header.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/list/200_content/300_content_body_tabs.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/list/200_content/tabs/tab_01.html",
+		"/D/@Programiranje/eda5/eda5/deli/views/delstavbe.py",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/200_content/100_content_header.html",
+		"/D/@Programiranje/eda5/eda5/katalog/urls.py",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardno_opravilo/list/base.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardno_opravilo/detail/base.html",
+		"/D/@Programiranje/eda5/eda5/katalog/views/standardna_aktivnost_views.py",
+		"/D/@Programiranje/eda5/eda5/katalog/views/standardna_aktivnost.py",
+		"/D/@Programiranje/eda5/eda5/katalog/views/standardno_opravilo.py",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/detail/200_content/200_content_body_items.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/detail/200_content/100_content_header.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/detail/200_content/tabs/tab_02.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/detail/200_content/tabs/tab_01.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/detail/200_content/tabs/tab_03.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/detail/200_content/300_content_body_tabs.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/200_content/300_content_body_tabs.html",
+		"/C/Users/vasja/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/detail/200_content/tabs/tab_04.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/detail/base.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/detail/200_content/400_content_modal.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/detail/100_navigacija/100_navigacija_right.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/100_navigacija/100_navigacija_right.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/200_content/tabs/tab_05.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/200_content/tabs/tab_04.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/200_content/tabs/tab_03.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/200_content/tabs/tab_02.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/200_content/tabs/tab_01.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/200_content/200_content_body_items.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/base.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detailx/content.html",
+		"/D/@Programiranje/eda5/eda5/katalog/views/standardiziran_element_sistema_views.py",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/delstavbe/list/content.html",
+		"/D/@Programiranje/eda5/eda5/@templates/deli/projektnomesto/detail/header.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_sistem/list/base.html",
+		"/D/@Programiranje/eda5/eda5/katalog/admin.py",
+		"/D/@Programiranje/eda5/eda5/@static/css/project.css",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_element_sistema/detail/base.html",
+		"/D/@Programiranje/eda5/eda5/@templates/moduli/detail_navbar_title.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_element_sistema/detail/200_content/300_content_body_tabs.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_sistem/detail/base.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_sistem/detail/200_content/300_content_body_tabs.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_sistem/detail/200_content/200_content_body_items.html",
+		"/D/@Programiranje/eda5/eda5/katalog/views/tip_elementa_views.py",
+		"/D/@Programiranje/eda5/eda5/katalog/views.py",
+		"/D/@Programiranje/eda5/eda5/katalog/views/__init__.py",
+		"/D/@Programiranje/eda5/sftp-config.json",
+		"/D/@Programiranje/eda5/eda5/planiranje/admin.py",
+		"/D/@Programiranje/eda5/eda5/planiranje/views/plan.py",
+		"/D/@Programiranje/eda5/eda5/import/views/import_deli_views.py",
+		"/D/@Programiranje/eda5/eda5/deli/forms/projektnomesto_forms.py",
+		"/C/Users/vasja/Desktop/Ostali Deli Stavbe.csv",
+		"/D/@Programiranje/eda5/eda5/@templates/planiranje/plan/detail/200_content/tabs/tab_02.html",
+		"/D/@Programiranje/eda5/eda5/@templates/planiranje/planirano_opravilo/detail/200_content/tabs/tab_06.html",
+		"/D/@Programiranje/eda5/eda5/@templates/planiranje/plan/detail/100_navigacija/100_navigacija_right.html",
+		"/D/@Programiranje/eda5/eda5/planiranje/models.py",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_sistem/list/200_content/200_content_body_items.html",
+		"/D/@Programiranje/eda5/eda5/@templates/planiranje/planirano_opravilo/detail/200_content/tabs/tab_01.html",
+		"/D/@Programiranje/eda5/eda5/@templates/planiranje/planirano_opravilo/detail/200_content/tabs/tab_02.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_sistem/list/200_content/300_content_body_tabs.html",
+		"/D/@Programiranje/eda5/eda5/@templates/katalog/standardiziran_sistem/list/200_content/tabs/tab_02.html",
+		"/C/Users/vasja/Desktop/Ostali Deli Stavbexxx.csv",
+		"/D/@Programiranje/eda5/eda5/deli/admin.py",
+		"/D/@Programiranje/eda5/eda5/@templates/planiranje/planirano_opravilo/detail/100_navigacija/100_navigacija_right.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"raw",
+			"input"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "docs/racunovodstvo_prejeti_racuni_posiljanje.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/!PrehodnoArhiv/@SLUZBA/pred 2015-08-16/pco/pco.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/!PrehodnoArhiv/@SLUZBA/pred 2015-08-16/pco/pco2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 721.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "knjiznica_znanja.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
