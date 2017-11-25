@@ -14,7 +14,7 @@ Install python 3.6 on ubuntu
     .. code-block:: none
     
         sudo apt-get install software-properties-common
-
+	asd
 
 #.  dodamo repository
 
