@@ -3,9 +3,11 @@ GIT
 
 Git remote
 
-git remote add <remote name> <remote path>
+    .. code-block:: none
+		git remote add <remote name> <remote path>
 
-git remote remove <remote name>
+    .. code-block:: none
+		git remote remove <remote name>
 
 
 .. glossary::
