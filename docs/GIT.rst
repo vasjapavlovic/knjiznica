@@ -10,7 +10,9 @@ git remote remove <remote name>
 
 .. glossary::
 
-	remote path
+
+
+    remote path
       	Lokacija projekta na github.com ali bitbucket.org
       	npr. https://github.com/vasjapavlovic/knjiznica.git
       	npr. https://pavlovicv@bitbucket.org/pavlovicv/knjiznica.git
