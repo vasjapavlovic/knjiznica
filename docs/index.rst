@@ -16,5 +16,5 @@ KNJIŽNICA ZNANJA VP
    Ubuntu
    ReadTheDocs
    Sphinx
-   TEST
-   sdasd
+   PostgreSQL
+
