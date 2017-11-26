@@ -4,10 +4,10 @@ Postgre SQL navodila
 
 
 PSQL backup --> S3
-==================
+##################
 
-VIRI
-^^^^
+Viri
+****
 
 * https://zaiste.net/posts/backup_postgresql_to_amazon_s3/
 * http://docs.aws.amazon.com/cli/latest/index.html
@@ -21,21 +21,22 @@ VIRI
 * http://www.lifelinux.com/how-to-startstoprestart-cron-service-in-linux/
 
 
-
-
-Uporabljeni programi:
+Uporabljeni programi
+********************
 
 pg_dumb – izdelava backup postgresql baz
 pg_restore – restore backupa
 aws cli – pošiljanje datotek na aws s3
 
 Instalacija
+***********
 -	pip install awscli
 -	pg_dumb, pg_restore pride že z postgreSQL
 
 
 
 Izdelava BACKUP
+***************
 
 pg_dump -Fc mydb > db.dump
 
@@ -55,6 +56,8 @@ pg_restore -c -C -d postgres db.dump
 
 
 POŠLJI NA AMAZON S3
+*******************
+
 Inštalacija
 Sudo apt-get install awscli
 aws s3 mv test.txt s3://mybucket/test2.txt
@@ -62,5 +65,7 @@ aws s3 mv test.txt s3://mybucket/test2.txt
 
 
 Kopiranje iz ali v s3
+*********************
+
 aws s3 cp <path from> <path to>
 path from ali <path to> = s3://<mybucket>/<file name>.xxx
