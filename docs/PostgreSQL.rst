@@ -12,6 +12,7 @@ Izdelava uporabnika
 *******************
 
 Izdelamo uporabnika
+-------------------
 
 .. code-block:: none
 
@@ -30,6 +31,7 @@ Izdelamo uporabnika
 
 
 Superuser pravice na voljo uporabniku
+-------------------------------------
 
 .. glossary::
 
@@ -45,6 +47,7 @@ Superuser pravice na voljo uporabniku
 
 
 Pregled uporabnikov
+-------------------
 
 .. code-block:: python
 
