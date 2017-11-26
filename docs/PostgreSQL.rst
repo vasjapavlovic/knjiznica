@@ -19,8 +19,10 @@ Izdelamo uporabnika
     psql
     CREATE ROLE pavlovicv WITH SUPERUSER LOGIN CREATEDB CREATEROLE PASSWORD 'medomedo83'
 
-.. code-block:: none
+
 Pregled uporabnikov
+
+.. code-block:: none
 
     \du # seznam uporabnikov
     q # greš ven iz ukaznega polja
