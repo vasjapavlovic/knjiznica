@@ -17,8 +17,6 @@ Uporbne funkcije
 Git remote
 **********
 
-A
-
 .. code-block:: none
 
     git remote add <remote name> <remote path>
