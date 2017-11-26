@@ -1,9 +1,13 @@
 Postgre SQL navodila
 ====================
+====================
+
 
 PSQL backup --> S3
+==================
 
 VIRI
+^^^^
 
 * https://zaiste.net/posts/backup_postgresql_to_amazon_s3/
 * http://docs.aws.amazon.com/cli/latest/index.html
@@ -17,39 +21,6 @@ VIRI
 * http://www.lifelinux.com/how-to-startstoprestart-cron-service-in-linux/
 
 
-+------------------------------+
-| paragraph                    |
-|                              |
-+------------------------------+
-
-
-# with overline, for parts
-* with overline, for chapters
-=, for sections
--, for subsections
-^, for subsubsections
-", for paragraphs
-
-PART
-####
-
-CHAPTER
-*******
-
-SECTION
-=======
-
-SubSECTION
-----------
-
-subsubsection
-^^^^^^^^^^^^^
-
-paragraph
-"""""""""
-
-"test test test
-testtestetettte"
 
 
 Uporabljeni programi:
