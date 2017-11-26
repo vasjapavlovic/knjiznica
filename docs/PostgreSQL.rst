@@ -22,7 +22,7 @@ Izdelamo uporabnika
 
 Pregled uporabnikov
 
-.. code-block:: none
+.. code-block:: python
 
     \du # seznam uporabnikov
     q # greš ven iz ukaznega polja
