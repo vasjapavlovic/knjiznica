@@ -1,19 +1,20 @@
-PSQL
-====
+Postgre SQL navodila
+====================
 
 PSQL backup --> S3
 
 VIRI
-https://zaiste.net/posts/backup_postgresql_to_amazon_s3/
-http://docs.aws.amazon.com/cli/latest/index.html
-https://www.postgresql.org/docs/9.6/static/app-pgdump.html
-https://www.postgresql.org/docs/9.6/static/app-pgrestore.html
-http://crontab.org/
-http://www.adminschoice.com/crontab-quick-reference
-https://crontab.guru/
-https://help.ubuntu.com/lts/serverguide/backup-shellscripts.html
-https://help.ubuntu.com/community/CronHowto
-http://www.lifelinux.com/how-to-startstoprestart-cron-service-in-linux/
+
+* https://zaiste.net/posts/backup_postgresql_to_amazon_s3/
+* http://docs.aws.amazon.com/cli/latest/index.html
+* https://www.postgresql.org/docs/9.6/static/app-pgdump.html
+* https://www.postgresql.org/docs/9.6/static/app-pgrestore.html
+* http://crontab.org/
+* http://www.adminschoice.com/crontab-quick-reference
+* https://crontab.guru/
+* https://help.ubuntu.com/lts/serverguide/backup-shellscripts.html
+* https://help.ubuntu.com/community/CronHowto
+* http://www.lifelinux.com/how-to-startstoprestart-cron-service-in-linux/
 
 
 
