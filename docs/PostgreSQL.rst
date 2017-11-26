@@ -12,14 +12,15 @@ Izdelava uporabnika
 *******************
 
 Izdelamo uporabnika
+
 .. code-block:: none
 
     sudo postgres
     psql
     CREATE ROLE pavlovicv WITH SUPERUSER LOGIN CREATEDB CREATEROLE PASSWORD 'medomedo83'
 
-Pregled uporabnikov
 .. code-block:: none
+Pregled uporabnikov
 
     \du # seznam uporabnikov
     q # greš ven iz ukaznega polja
