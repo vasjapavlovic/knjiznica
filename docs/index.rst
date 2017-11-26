@@ -11,11 +11,13 @@ KNJIŽNICA ZNANJA VP
    :caption: Vsebina:
 
    Django
+   GIT
+   PostgreSQL
    Python
+   Sphinx
    Sublime Text 3
    Ubuntu
-   ReadTheDocs
-   Sphinx
-   PostgreSQL
-   GIT
+  
+   
+   
 
