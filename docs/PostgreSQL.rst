@@ -17,7 +17,21 @@ Izdelamo uporabnika
 
     sudo postgres
     psql
-    CREATE ROLE pavlovicv WITH SUPERUSER LOGIN CREATEDB CREATEROLE PASSWORD 'medomedo83'
+    CREATE ROLE <username> WITH SUPERUSER LOGIN CREATEDB CREATEROLE PASSWORD '<password>'
+
+.. glossary::
+
+    username
+        uporabniško ime novega uporabnika
+
+    password
+        geslo, ki jo dodelimo novemu uporabniku
+
+Superuser pravice na voljo uporabniku
+* LOGIN - lahko se logira v bazo
+* CREATEDB - lahko izdela novo bazo
+* CREATEROLE - lahko dodaja nove uporabnike
+
 
 
 Pregled uporabnikov
