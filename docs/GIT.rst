@@ -2,6 +2,12 @@ GIT zbirka znanja
 =================
 =================
 
+Priporočila
+###########
+
+.. note::
+    Priporočam branje glede GIT-workflow na strani https://www.atlassian.com/git/tutorials
+
 
 Zunanji viri
 ############
@@ -9,6 +15,8 @@ Zunanji viri
 * https://www.atlassian.com/git/tutorials
 * https://www.bitbucket.org
 * https://www.github.com
+
+
 
 
 Uporbne funkcije
