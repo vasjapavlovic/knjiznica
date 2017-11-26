@@ -11,6 +11,9 @@ Zunanji viri
 * https://www.github.com
 
 
+Uporbne funkcije
+################
+
 Git remote
 **********
 
