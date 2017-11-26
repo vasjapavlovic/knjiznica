@@ -6,19 +6,7 @@ Priporočila
 ###########
 
 .. note::
-    Priporočam branje glede GIT-workflow na strani https://www.atlassian.com/git/tutorials
-
-
-.. versionadded:: 2.5
-   The *spam* parameter.
-
-.. versionchanged:: 2.5
-   The *spam* parameter.
-
-.. deprecated:: 3.1
-   Use :func:`spam` instead.
-
-
+    Priporočam branje glede GIT workflow-a | https://www.atlassian.com/git/tutorials
 
 
 Zunanji viri
