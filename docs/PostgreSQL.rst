@@ -27,10 +27,20 @@ Izdelamo uporabnika
     password
         geslo, ki jo dodelimo novemu uporabniku
 
+
+
 Superuser pravice na voljo uporabniku
-* LOGIN - lahko se logira v bazo
-* CREATEDB - lahko izdela novo bazo
-* CREATEROLE - lahko dodaja nove uporabnike
+
+.. glossary::
+
+    LOGIN
+        lahko se logira v bazo
+
+    CREATEDB
+        lahko izdela novo bazo
+    
+    CREATEROLE
+        lahko dodaja nove uporabnike
 
 
 

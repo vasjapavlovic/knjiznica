@@ -14,8 +14,6 @@ Git remote
 
 .. glossary::
 
-
-
     remote path
       	Lokacija projekta na github.com ali bitbucket.org
       	npr. https://github.com/vasjapavlovic/knjiznica.git
