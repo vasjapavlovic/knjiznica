@@ -2,6 +2,30 @@ Postgre SQL navodila
 ====================
 ====================
 
+Splošni ukazi v command line
+############################
+
+# create role
+# možnosti : https://w3resource.com/PostgreSQL/postgresql-database-roles.php
+
+Izdelava uporabnika
+*******************
+
+Izdelamo uporabnika
+.. code-block:: none
+
+    sudo postgres
+    psql
+    CREATE ROLE pavlovicv WITH SUPERUSER LOGIN CREATEDB CREATEROLE PASSWORD 'medomedo83'
+
+Pregled uporabnikov
+.. code-block:: none
+
+    \du # seznam uporabnikov
+    q # greš ven iz ukaznega polja
+
+
+
 
 PSQL backup --> S3
 ##################
