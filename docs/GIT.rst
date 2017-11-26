@@ -1,7 +1,20 @@
-GIT
-===
+GIT zbirka znanja
+=================
+=================
+
+
+Zunanji viri
+############
+
+* https://www.atlassian.com/git/tutorials
+* https://www.bitbucket.org
+* https://www.github.com
+
 
 Git remote
+**********
+
+A
 
 .. code-block:: none
 
