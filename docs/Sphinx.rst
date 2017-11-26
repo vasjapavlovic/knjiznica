@@ -5,7 +5,7 @@ SPHINX
 Reference
 ###########################
 
-Izdelamo referenco
+Izdelava reference
 
 .. code::
     
