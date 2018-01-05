@@ -34,10 +34,10 @@ Generiranje podatkov za bazo pri testiranju.
 
 
 Izdelava enega podatka
-----------------------
+**********************
 
 Izdelava več podatkov
----------------------
+*********************
 
 .. code-block:: none
     aktivnost_list = AktivnostFactory.build_batch(2)
