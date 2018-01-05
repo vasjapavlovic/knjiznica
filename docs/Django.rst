@@ -36,9 +36,11 @@ Generiranje podatkov za bazo pri testiranju.
 Izdelava enega podatka
 **********************
 
-.. code-block:: none
+.. code-block:: python
 
+    # izdelamo aktivnost iz factory boya
     aktivnost = AktivnostFactory.create()
+    # aktivnost shranimo v bazo
     aktivnost.save()
 
 
