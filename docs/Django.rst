@@ -40,4 +40,5 @@ Izdelava več podatkov
 *********************
 
 .. code-block:: none
+
     aktivnost_list = AktivnostFactory.build_batch(2)
