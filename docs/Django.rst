@@ -36,6 +36,12 @@ Generiranje podatkov za bazo pri testiranju.
 Izdelava enega podatka
 **********************
 
+.. code-block:: none
+
+    aktivnost = AktivnostFactory.create()
+    aktivnost.save()
+
+
 Izdelava več podatkov
 *********************
 
