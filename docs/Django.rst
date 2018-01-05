@@ -33,6 +33,21 @@ Factory Boy
 Generiranje podatkov za bazo pri testiranju.
 
 
+Osnova za generiranje podatkov
+******************************
+
+.. code-block:: Python
+
+    import factory
+
+    class AktivnostFactory(factory.Factory):
+        class Meta:
+            model = AktivnostFactory
+
+        naziv = 'Moj prvi factory za aktivnost'
+
+
+
 Izdelava enega podatka
 **********************
 
@@ -40,6 +55,7 @@ Izdelava enega podatka
 
     # izdelamo aktivnost iz factory boya
     aktivnost = AktivnostFactory.create()
+
     # aktivnost shranimo v bazo
     aktivnost.save()
 
