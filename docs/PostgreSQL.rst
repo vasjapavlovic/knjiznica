@@ -5,11 +5,23 @@ Postgre SQL navodila
 Splošni ukazi v command line
 ############################
 
-# create role
-# možnosti : https://w3resource.com/PostgreSQL/postgresql-database-roles.php
+\c <database_name>
+\connect <database_name>
+
+
+SQL ukazi
+############################
+https://www.postgresql.org/docs/9.6/static/sql-commands.html
+
+
 
 Izdelava uporabnika
 *******************
+
+# create role
+# možnosti : https://w3resource.com/PostgreSQL/postgresql-database-roles.php
+
+
 
 Izdelamo uporabnika
 -------------------
