@@ -32,6 +32,11 @@ Factory Boy
 
 Generiranje podatkov za bazo pri testiranju.
 
+Osnovna dokumentacija:
+https://media.readthedocs.org/pdf/factoryboy/latest/factoryboy.pdf
+http://factoryboy.readthedocs.io/en/latest/recipes.html
+
+
 
 Osnova za generiranje podatkov
 ******************************
@@ -66,3 +71,6 @@ Izdelava več podatkov
 .. code-block:: none
 
     aktivnost_list = AktivnostFactory.build_batch(2)
+
+
+.. image:: images/test_picture.png
