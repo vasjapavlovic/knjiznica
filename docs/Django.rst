@@ -74,3 +74,13 @@ Izdelava več podatkov
 
 
 .. image:: images/test_picture.png
+
+
+
+Selenium
+########
+
+Install geckodriver
+*******************
+
+* https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu
