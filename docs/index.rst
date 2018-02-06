@@ -17,4 +17,4 @@ MOJI ZAPISKI
    Sphinx
    Sublime Text 3
    Ubuntu
-   Upravljanje/zavarovalnistvo.rst
+   Upravljanje/index.rst
