@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-KNJIŽNICA ZNANJA VP
-===================================================
+MOJI ZAPISKI
+============
 
 .. toctree::
    :maxdepth: 2
@@ -17,7 +17,4 @@ KNJIŽNICA ZNANJA VP
    Sphinx
    Sublime Text 3
    Ubuntu
-  
-   
-   
-
+   Upravljanje/zavarovalnistvo.rst

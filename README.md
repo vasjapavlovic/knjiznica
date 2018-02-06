@@ -1,2 +1,0 @@
-# knjiznica
-Knjižnica informacij

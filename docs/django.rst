@@ -84,3 +84,65 @@ Install geckodriver
 *******************
 
 * https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu
+
+
+
+Transactions modul
+##################
+
+from django.db import transaction
+with transaction.atomic():
+    do somethin with database
+
+če je karkoli narobe se vse kar je napisano v transaction.atomic() povrne v prvotno stanje
+
+Lahko uporabimo tudi dekorator:
+
+.. code-block:: python
+
+    @transaction.atomic
+    def viewfunc(request):
+        # This code executes inside a transaction.
+        do_stuff()
+
+
+
+FORMSETS
+########
+
+Zunanji viri
+************
+
+* http://whoisnicoleharris.com/2015/01/06/implementing-django-formsets.html
+* http://bitofpixels.com/blog/form-and-formset-in-one-html-form/
+* https://github.com/AndrewIngram/django-extra-views/blob/master/extra_views_tests/tests.py
+
+
+
+Formset input data
+******************
+
+data = {
+    'oznaka': 'OZNAKA',
+    'naziv': 'NAZIV',
+    'kontrolaspecifikacija_set-TOTAL_FORMS': 1,
+    'kontrolaspecifikacija_set-INITIAL_FORMS': 0,
+    'kontrolaspecifikacija_set-0-oznaka': 'KS_0',
+    'kontrolaspecifikacija_set-0-naziv': 'A1',
+    'kontrolaspecifikacija_set-0-opis': 'ass',
+    'kontrolaspecifikacija_set-0-vrednost_vrsta': 1,
+}
+
+response = self.client.post(url, data)
+
+
+
+
+.. glossary::
+
+    'form_set-TOTAL_FORMS': 1
+        Prikaže koliko forme, ki se jih izpolnjuje
+
+    'form_set-INITIAL_FORMS': 0
+    	Prikaže že obstoječe forme, ki se jih updata
+        Specificirati moraš še 'form_set-0-id': instanca.id
