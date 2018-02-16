@@ -18,3 +18,4 @@ MOJI ZAPISKI
    Sublime Text 3
    Ubuntu
    Upravljanje/index.rst
+   hisa

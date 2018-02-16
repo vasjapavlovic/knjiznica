@@ -146,3 +146,12 @@ response = self.client.post(url, data)
     'form_set-INITIAL_FORMS': 0
     	Prikaže že obstoječe forme, ki se jih updata
         Specificirati moraš še 'form_set-0-id': instanca.id
+
+
+
+CONCATENATE QUERYSETS
+#####################
+
+* https://chriskief.com/2015/01/12/combine-2-django-querysets-from-different-models/
+* https://simpleisbetterthancomplex.com/tips/2016/06/20/django-tip-5-how-to-merge-querysets.html
+* https://stackoverflow.com/questions/34042961/when-i-tried-to-sort-a-list-i-got-an-error-dict-object-has-no-attribute
